@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/DojoSurvey3/bin/Debug/netcoreapp2.0/DojoSurvey3.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/DojoSurvey3/bin/Debug/netcoreapp2.0/DojoSurvey3.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/DojoSurvey3/bin/Debug/netcoreapp2.0/DojoSurvey3.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/DojoSurvey3/bin/Debug/netcoreapp2.0/DojoSurvey3.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/DojoSurvey3/bin/Debug/netcoreapp2.0/DojoSurvey3.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/DojoSurvey3/obj/Debug/netcoreapp2.0/DojoSurvey3.csprojResolveAssemblyReference.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/DojoSurvey3/obj/Debug/netcoreapp2.0/DojoSurvey3.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/DojoSurvey3/obj/Debug/netcoreapp2.0/DojoSurvey3.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/DojoSurvey3/obj/Debug/netcoreapp2.0/DojoSurvey3.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/DojoSurvey3/obj/Debug/netcoreapp2.0/DojoSurvey3.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day5/DojoSurvey3/obj/Debug/netcoreapp2.0/DojoSurvey3.pdb
